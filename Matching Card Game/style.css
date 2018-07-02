@@ -1,0 +1,58 @@
+.container{
+  border:1px solid white;
+  width: 100%;
+  height: 700px;
+}
+
+.card{
+  border:1px solid white;
+  width: 19%;
+  height: 150px;
+  float: left;
+  margin-left:10px;
+}
+
+
+.skyBlue.selected, .skyBlue.matched{
+  background: skyblue;
+}
+.red.selected, .red.matched{
+  background: red;
+}
+.pink.selected, .pink.matched{
+  background: pink;
+}
+.plum.selected, .plum.matched{
+  background: plum;
+}
+.yellow.selected, .yellow.matched{
+  background: yellow;
+}
+.limegreen.selected, .limegreen.matched{
+  background: limegreen;
+}
+.darkorange.selected, .darkorange.matched{
+  background: darkorange;
+}
+.darkmagenta.selected, .darkmagenta.matched{
+  background: darkmagenta;
+}
+.indigo.selected, .indigo.matched{
+  background: indigo;
+}
+.turquoise.selected, .turquoise.matched{
+  background: turquoise;
+}
+
+
+
+
+
+h1{
+  text-align: center;
+  color:white;
+}
+html{
+  background-color: black;
+  font-family: sans-serif;
+}
